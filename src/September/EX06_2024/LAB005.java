@@ -9,7 +9,10 @@ public class LAB005 {
         * Multiline comment
         * */
 
+//Documentation
+        /*/
 
+         */
     }
 
 
