@@ -10,8 +10,8 @@ boolean ABHAY = true;
 //boolean 123 = true; - not possible as the starting is number
 
 //         Numeric Type-
-        /* - Integral type - Integers
-           - Floating type
+        /* - Integral type - Integers ( whole number without decimals)
+           - Floating type -
          */
         byte b = 127;
         short s = 128;
