@@ -7,6 +7,11 @@ public class LAB009 {
 //    Primitive data types - Predefined values
   /*/
     1. Boolean - Yes/ No. True/ False
+    2. Numeric type: -
+       a. Integral type
+        - byte / short / int/ long/ char
+       b. Floating points
+       -  Float / Double
 
    */
 }
