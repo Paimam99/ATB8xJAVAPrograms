@@ -53,8 +53,9 @@ public class LAB012 {
         System.out.println("Abhay"+'\b'+"Pai");
         System.out.println("Abhay"+'\r'+"Pai");
 
-//        Unicode
+//        Unicode char
         System.out.println('\u1F60');
+
 
 
 
