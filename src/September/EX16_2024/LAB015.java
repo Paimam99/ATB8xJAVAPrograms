@@ -15,6 +15,21 @@ public class LAB015 {
         System.out.println(first_name+last_name+a+b);
         System.out.println(a+b+first_name+last_name);
 
+//        Compound assignment operator
+        // += , -=, *=, /=
+        a+=20;
+        System.out.println(a); // 76
+
+        a-=20;
+        System.out.println(a); // 56
+
+        a*=20;
+        System.out.println(a); // 1120
+
+        a/=20;
+        System.out.println(a); // 56
+
+
 
 
 
