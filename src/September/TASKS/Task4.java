@@ -15,9 +15,9 @@ public class Task4 {
         System.out.println(--d+ d--+d); //26
         System.out.println(d); //8
 
-        System.out.println(--d + d++ + d-0); // 28
-        System.out.println(d); //10
-//
+        System.out.println(--d + d++ + d--); // 28
+        System.out.println(d); //9
+
         System.out.println(d-- + d-- + d--); //27
         System.out.println(d); //7
     }
