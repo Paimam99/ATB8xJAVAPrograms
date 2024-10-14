@@ -3,7 +3,7 @@ package September.TASKS;
 public class Task3 {
     public static void main(String[] args) {
         /*
-        Difference between = and ==
+        Difference between = and == , (Assign operator = )
         byte b = 10 long l = 10
          */
 
