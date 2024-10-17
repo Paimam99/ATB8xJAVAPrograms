@@ -21,16 +21,8 @@ public class LAB019 {
 //         Max & Min
         int max = T> P ? T :P;
         int min = T < P ? T : P ;
-        System.out.println(max); //7
-        System.out.println(min); //4
-
-
-
-
-
-
-
-
+        System.out.println(max); // 7
+        System.out.println(min); // 4
 
 
 
