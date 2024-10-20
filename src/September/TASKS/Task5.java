@@ -10,21 +10,24 @@ public class Task5 {
         String S = 85 >= 90? "A": 85 >= 80 ? "B": 85>= 70? "C": "D";
         System.out.println(S); //B
 
-//        int sc = 90;
-//        String Sc = 85 <= 90? "A": 85 <= 80 ? "B": 85<= 70? "C": "D";
-//        System.out.println(Sc); // A
-//
-//        int a = 12;
-//        String a1 = 85 >= 90? "A": 85 >= 80 ? "B": 85>= 70? "C": "D";
-//        System.out.println(a1); //
-//
-//        int q = 45;
-//        String q1 = 85 >= 90? "A": 85 >= 80 ? "B": 85>= 70? "C": "D";
-//        System.out.println(q1); //
-//
+        int sc = 90;
+        String Sc = 85 <= 90? "A": 85 <= 80 ? "B": 85<= 70? "C": "D";
+        System.out.println(Sc); // A
+
+        int a = 12;
+        String a1 = a >= 90 ? "A" : a >= 80 ? "B" : a >= 70 ? "C" : "D";
+        System.out.println(a1); // D
+
+
+        int q = 45;
+        String q1 = q >= 75? "A": q >= 50 ? "B": q >= 35 ? "C": "D";
+        System.out.println(q1); // // C
+
 //        int w = 85;
 //        String w1 = 85 <= 90? "A": 85 <= 80 ? "B": 85<= 70? "C": "D";
 //        System.out.println(w1); //
+
+
 
 
     }
