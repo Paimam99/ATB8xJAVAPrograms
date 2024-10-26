@@ -24,6 +24,25 @@ public class LAB020 {
         }
         System.out.println("Outside ->" + a );
 
+        int num = 11;
+        if (num %2 == 0) {
+            System.out.println("EVEN");
+        }else{
+            System.out.println("ODD");
+        }
+
+        int num1 = 10; // 30,40
+        int num2 = 30;
+        if (num1>num2) {
+            System.out.println(num1);
+        } else if(num2>num1) {
+            System.out.println(num2);
+        } else {
+            System.out.println("Equal!");
+
+        }
+
+
     }
 
 
