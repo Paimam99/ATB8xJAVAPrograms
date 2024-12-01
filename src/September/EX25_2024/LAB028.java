@@ -5,7 +5,8 @@ public class LAB028 {
 //       final boolean b1 = true;
 //       for (int i= 0;b1;i++){
 //           System.out.println(b1); // infinite printing loop
-//       }
+//       } ;; if no condition then it's a infinite loop;;
+
        int a = 10; // decrement
        for( ;a>0;a--){
            System.out.println(a);
