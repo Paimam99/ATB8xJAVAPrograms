@@ -1,5 +1,7 @@
 package September.EX25_2024;
 
+import javax.swing.plaf.synth.SynthTextAreaUI;
+
 public class LAB030 {
     public static void main(String[] args) {
 //      while loop
@@ -13,6 +15,13 @@ public class LAB030 {
             System.out.println(j);
         }
 
+        String originalStr = "Hello";
+        String reversedStr = " ";
+        System.out.println("Original string: "+originalStr);
+        for (int q =0; q<originalStr.length();q++){
+            reversedStr = originalStr.charAt(q)+reversedStr;
+        }
+        System.out.println("Reverse string: "+reversedStr);
      }
     }
 
