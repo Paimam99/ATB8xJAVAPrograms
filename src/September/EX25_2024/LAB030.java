@@ -4,7 +4,7 @@ import javax.swing.plaf.synth.SynthTextAreaUI;
 
 public class LAB030 {
     public static void main(String[] args) {
-//      while loop
+//      while loop (initialization, condition, execution)
         int i = 0;
         while(i<=10){
             System.out.println(i);
