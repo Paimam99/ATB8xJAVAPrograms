@@ -1,7 +1,5 @@
 package September.TASKS;
 
-import javax.sound.midi.SysexMessage;
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Task6 {
@@ -31,14 +29,14 @@ Step 3 : Execution
         int n = sc.nextInt();
 
         for (int  i = 1; i<=100; i++){
-            if (i % 3 == 0){
+            if (i % 3 == 0 && i % 5 == 0){
+                System.out.println("FizzBuzz");
+            }
+            else if (i % 3 == 0){
                 System.out.println("Fizz");
             }
             else if (i % 5 == 0){
                 System.out.println("Buzz");
-            }
-            else if (i % 3 == 0 && (i % 5) == 0){
-                System.out.println("FizzBuzz");
             }else{
                 System.out.println(i);
             }

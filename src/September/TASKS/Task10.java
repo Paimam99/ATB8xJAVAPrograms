@@ -10,6 +10,7 @@ public class Task10 {
         }
         //Prime number from 1 to 100
 
+
         // Count the vowels and consonants in a string - Pramod
     }
 
